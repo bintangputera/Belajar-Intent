@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="buka_aplikasi_telpon">Buka Aplikasi Telpon</string>
+</resources>
